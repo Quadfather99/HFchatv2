@@ -1,0 +1,14 @@
+# requirements.txt
+requests
+beautifulsoup4
+langchain
+openai
+flask
+psycopg2-binary
+python-dotenv
+playwright
+scrapy
+selenium
+webdriver-manager
+chromadb
+langchain-community
